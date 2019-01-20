@@ -1,3 +1,9 @@
+---
+layout: none
+permalink: /error.html
+---
+
+
 <!DOCTYPE html>
   <html lang='en'>
   <head>
