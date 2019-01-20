@@ -39,11 +39,8 @@ permalink: /error.html
 <body>
   <script>
   $(document).ready(function(){
-    if (!sessionStorage.returning) {
-    // run only if returning not stored in sessionStorage
     swal("Notice!", "This site is no longer maintained and has been shut down. Thanks for visit.         -Netlify Team", "warning");
-      sessionStorage.returning = true;
-} });
+    });
       </script>
 <article>
 <section>
