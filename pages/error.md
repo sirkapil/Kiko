@@ -39,12 +39,12 @@ permalink: /error.html
 <body>
   <script>
   $(document).ready(function(){
-    swal("Notice!", "This site is no longer maintained and has been shut down. Thanks for visit.         -Netlify Team", "warning");
+    swal("Notice!", "This site is no longer maintained and has been shut down. Thanks for visiting.         -Netlify Team", "warning");
     });
       </script>
 <article>
 <section>
-<h1> Good Bye! </h1>
+<h1> 404 ! Not Found. </h1>
 </section>
 </article>
 </body>
