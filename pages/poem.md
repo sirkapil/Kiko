@@ -1,7 +1,7 @@
 ---
 title: Compare me with you bf
 layout: page
-permalink: /poem.html
+permalink: /p/poem.html
 ---
 
 
