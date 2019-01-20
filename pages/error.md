@@ -3,8 +3,6 @@ layout: none
 permalink: /error.html
 ---
 
-
-<!DOCTYPE html>
   <html lang='en'>
   <head>
     <meta charset='utf-8'>
@@ -49,9 +47,7 @@ permalink: /error.html
       </script>
 <article>
 <section>
-<center>
-<p> Good Bye! </p>
-  </center>
+<h1> Good Bye! </h1>
 </section>
 </article>
 </body>
